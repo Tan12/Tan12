@@ -1,0 +1,8 @@
+title: Tan12.GitHub.io
+description: My Blog
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
